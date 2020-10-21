@@ -16,13 +16,13 @@ The Task-1, Task-2, Task-3, Task-4 files have some bugs to be patched.
 
 Ex: 
 
-first pull request from Task-1.html
+* first pull request from [Task-1.html](https://github.com/edvicon/Hacktoberfest2020-Task1)
 
-second pull request from Task-2.html
+* second pull request from [Task-2.html](https://github.com/edvicon/Hacktoberfest2020-Task2)
 
-third pull request from Task-3.html
+* third pull request from [Task-3.html](https://github.com/edvicon/Hacktoberfest2020-Task3)
 
-fourth pull request from Task-4.html
+* fourth pull request from [Task-4.html](https://github.com/edvicon/Hacktoberfest2020-Task4)
 
 # Website you're going to patch
 * [View Website](https://www.hacktoberfest2020.edvicon.org)
