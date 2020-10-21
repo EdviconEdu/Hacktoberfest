@@ -17,27 +17,29 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 Happy Hacking !!!!!!!
 
 # Read the following Instructions
+Tasks are available in HTML, C#, Python languages. You can choose any language and patch any amount of bugs. But the minimum is 1 patch per repository. Which means you have to patch at least one bug for all 4 repositories (4 tasks).
+
 The Task-1, Task-2, Task-3, Task-4 files have some bugs to be patched. Tasks are in 4 different repositories (Check below links).
 
 1. Fork the repository
-2. Find a bug (Enlosed within `<!-- Bug Start #000 -->` and `<!-- Bug End -->`)
-3. Patch/Correct the bug (Do not remove `<!-- Bug Start -->` and `<!-- Bug End -->`)
+2. Find a bug (Enlosed within `<!-- Bug Start #000 -->` and `<!-- Bug End -->` OR `/* Bug Start #000 */` and `/* Bug End */` OR `# Bug Start #000` and `# Bug End`)
+3. Patch/Correct the bug (Do not remove `<!-- Bug Start #000 -->` and `<!-- Bug End -->` OR `/* Bug Start #000 */` and `/* Bug End */` OR `# Bug Start #000` and `# Bug End`)
 4. Make a pull request (Include the Bug ID you're patching in request title Ex: `Patch for #000`)
 
 # Important
 * Remember: 1 pull request = 1 bug
-* You have to send 4 pull requests. Which means 4 bugs. (1 bug per 1 pull request AND 1 pull request from 1 file)
+* You have ONLY to send 4 pull requests. Which means 4 bugs. (1 bug per 1 pull request AND 1 pull request from 1 file)
 * Use 1 task file for 1 pull request
 
 Ex: 
 
-* first pull request from [Task-1.html](https://github.com/edvicon/Hacktoberfest2020-Task1)
+* First pull request from [Task-1.html/Task-1.cs](https://github.com/edvicon/Hacktoberfest2020-Task1)
 
-* second pull request from [Task-2.html](https://github.com/edvicon/Hacktoberfest2020-Task2)
+* Second pull request from [Task-2.html/Task-2.cs](https://github.com/edvicon/Hacktoberfest2020-Task2)
 
-* third pull request from [Task-3.html](https://github.com/edvicon/Hacktoberfest2020-Task3)
+* Third pull request from [Task-3.html/Task-3.cs](https://github.com/edvicon/Hacktoberfest2020-Task3)
 
-* fourth pull request from [Task-4.html](https://github.com/edvicon/Hacktoberfest2020-Task4)
+* Fourth pull request from [Task-4.html/Task-4.cs](https://github.com/edvicon/Hacktoberfest2020-Task4)
 
 # Website you're going to patch
 * [View Website](https://www.hacktoberfest2020.edvicon.org)
