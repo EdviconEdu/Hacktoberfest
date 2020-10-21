@@ -1,8 +1,23 @@
-# Hacktoberfest 2020
-Hacktoberfest 2020 tasks in collaboration with Digital Ocean.
+# Hacktoberfest
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub. Hacktoberfest is open to everyone in our global community! You just need to make four contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt.
+
+[Read more](https://hacktoberfest.digitalocean.com)
+
+> Step 1: Register or login to github. [https://github.com](https://github.com)
+
+> Step 2: Register to Hacktoberfest. [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)
+
+> Step 3: Contribute to these four repositories , check instructions to contribute in each repositories.
+
+* [Task 01](https://github.com/edvicon/Hacktoberfest2020-Task1)
+* [Task 02](https://github.com/edvicon/Hacktoberfest2020-Task2)
+* [Task 03](https://github.com/edvicon/Hacktoberfest2020-Task3)
+* [Task 04](https://github.com/edvicon/Hacktoberfest2020-Task4)
+
+Happy Hacking !!!!!!!
 
 # Read the following Instructions
-The Task-1, Task-2, Task-3, Task-4 files have some bugs to be patched.
+The Task-1, Task-2, Task-3, Task-4 files have some bugs to be patched. Tasks are in 4 different repositories (Check below links).
 
 1. Fork the repository
 2. Find a bug (Enlosed within `<!-- Bug Start #000 -->` and `<!-- Bug End -->`)
