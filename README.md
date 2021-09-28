@@ -35,14 +35,35 @@ The Task-1, Task-2, Task-3, Task-4 files have some bugs to be patched. Tasks are
 
 Ex: 
 
-* First pull request from [Task-1.html/Task-1.cs](https://github.com/edvicon/Hacktoberfest2020-Task1)
+* First pull request from [Task-1](https://github.com/edviconedu/Hacktoberfest2021-Task1)
 
-* Second pull request from [Task-2.html/Task-2.cs](https://github.com/edvicon/Hacktoberfest2020-Task2)
+* Second pull request from [Task-2](https://github.com/edviconedu/Hacktoberfest2021-Task2)
 
-* Third pull request from [Task-3.html/Task-3.cs](https://github.com/edvicon/Hacktoberfest2020-Task3)
+* Third pull request from [Task-3](https://github.com/edviconedu/Hacktoberfest2021-Task3)
 
-* Fourth pull request from [Task-4.html/Task-4.cs](https://github.com/edvicon/Hacktoberfest2020-Task4)
+* Fourth pull request from [Task-4](https://github.com/edviconedu/Hacktoberfest2021-Task4)
+
+# Files you're can choose to patch per Task
+
+## Keep in mind - You cannot fix same bug in each task.
+
+Ex: If you patch the bug `#001` of Task-1, you're not allowed to patch the same bug `#001` of the Task-2 or Task-3 or Task-4. Doing so will disqualify you from the competition.
+
+## Files to patch
+
+* index.html
+
+* assets/countdown/
+
+* 
+
 
 # Website you're going to patch
-* [View Website](https://www.hacktoberfest2020.edvicon.org)
+* [View Website for Task 1](https://hf-task1.edvi.cf)
+
+* [View Website for Task 2](https://hf-task2.edvi.cf)
+
+* [View Website for Task 3](https://hf-task3.edvi.cf)
+
+* [View Website for Task 4](https://hf-task4.edvi.cf)
 
