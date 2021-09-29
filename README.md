@@ -51,6 +51,12 @@ Ex:
 
 * JavaScript - (8 bugs in each task repository)
 
+* Python - (10 bugs in each task repository)
+
+* C# - (5 bugs in each task repository)
+
+* Java - (5 bugs in each task repository)
+
 
 ## Keep in mind - You cannot fix same bug in each task.
 
@@ -76,6 +82,18 @@ Ex: If you patch the bug `#001` of Task-1, you're not allowed to patch the same 
 * assets/touchswipe/query.touch-swipe.min.js
 
 * assets/mbr-switch-arrow/mbr-switch-arrow.js
+
+* python/setup.py
+
+* C#/SecurePassword.cs
+
+* C#/Program.cs
+
+* java/app/src/main/java/com/nimesh/foodsapp/Utils.java
+
+* java/app/src/main/java/com/nimesh/foodsapp/model/Categories.java
+
+* java/app/src/main/java/com/nimesh/foodsapp/api/FoodClient.java
 
 
 # Website you're going to patch
