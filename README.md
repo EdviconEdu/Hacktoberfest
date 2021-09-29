@@ -1,4 +1,3 @@
-# Update in Progress... Check back in later
 
 # Hacktoberfest 2021 - Edvicon International
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub. Hacktoberfest is open to everyone in our global community! You just need to make four contributions to open source before October 31 and can receive a free Hacktoberfest t-shirt.
@@ -11,10 +10,10 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 
 > Step 3: Contribute to these four repositories , check instructions to contribute in each repositories.
 
-* [Task 01](https://github.com/edvicon/Hacktoberfest2020-Task1)
-* [Task 02](https://github.com/edvicon/Hacktoberfest2020-Task2)
-* [Task 03](https://github.com/edvicon/Hacktoberfest2020-Task3)
-* [Task 04](https://github.com/edvicon/Hacktoberfest2020-Task4)
+* [Task 01](https://github.com/edviconedu/Hacktoberfest2021-Task1)
+* [Task 02](https://github.com/edviconedu/Hacktoberfest2021-Task2)
+* [Task 03](https://github.com/edviconedu/Hacktoberfest2021-Task3)
+* [Task 04](https://github.com/edviconedu/Hacktoberfest2021-Task4)
 
 Happy Hacking !!!!!!!
 
@@ -43,19 +42,58 @@ Ex:
 
 * Fourth pull request from [Task-4](https://github.com/edviconedu/Hacktoberfest2021-Task4)
 
+
 # Files you're can choose to patch per Task
+
+* HTML - (10 bugs in each task repository)
+
+* CSS - (5 bugs in each task repository)
+
+* JavaScript - (8 bugs in each task repository)
+
+* Python - (10 bugs in each task repository)
+
+* C# - (5 bugs in each task repository)
+
+* Java - (5 bugs in each task repository)
+
 
 ## Keep in mind - You cannot fix same bug in each task.
 
 Ex: If you patch the bug `#001` of Task-1, you're not allowed to patch the same bug `#001` of the Task-2 or Task-3 or Task-4. Doing so will disqualify you from the competition.
 
-## Files to patch
+
+## Files to patch (Bugs are in these files)
 
 * index.html
 
-* assets/countdown/
+* assets/FontAwesome/css/font-awesome.css
 
-* 
+* assets/mobirise/css/mbr-additional.css
+
+* assets/theme/css/style.css
+
+* assets/countdown/jquery.countdown.min.js
+
+* assets/dropdown/js/nav-dropdown.js
+
+* assets/dropdown/js/navbar-dropdown.js
+
+* assets/touchswipe/query.touch-swipe.min.js
+
+* assets/mbr-switch-arrow/mbr-switch-arrow.js
+
+* python/setup.py
+
+* C#/SecurePassword.cs
+
+* C#/Program.cs
+
+* java/app/src/main/java/com/nimesh/foodsapp/Utils.java
+
+* java/app/src/main/java/com/nimesh/foodsapp/model/Categories.java
+
+* java/app/src/main/java/com/nimesh/foodsapp/api/FoodClient.java
 
 
 # Website you're going to patch
